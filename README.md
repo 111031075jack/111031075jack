@@ -18,7 +18,7 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: Java, Python, C++
+- 💻 Languages: Java
 - 🌐 Backend: Spring Boot
 - 🗄️ Database: MySQL
 - 🔧 Tools: Git, GitHub, Postman
@@ -39,14 +39,6 @@
 - 📌 (未來可以放 Spring Boot 專案)
 - 📌 (API 專案)
 - 📌 (資料庫專案)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=111031075jack&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=111031075jack&layout=compact&theme=tokyonight)
 
 ---
 
